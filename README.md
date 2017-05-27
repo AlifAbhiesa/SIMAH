@@ -4,23 +4,23 @@
 Sistem Informasi Keanggotaan Mahasiswa
  
 <h1>Feature :</h1>
-1. Master Data
-- Anggota
-- Hukuman
-- AD/ART
-- Kegiatan
-- Proker
-2. Kepanitiaan
-3. Pelanggaran
-4. Prestasi
-
+<br>1. Master Data
+<br>- Anggota
+<br>- Hukuman
+<br>- AD/ART
+<br>- Kegiatan
+<br>- Proker
+<br>2. Kepanitiaan
+<br>3. Pelanggaran
+<br>4. Prestasi
+<br>
 <h1> Install </h1>
-1. Open NetBeans IDE
-2. Open Project
-3. Load This Project
-4. Right Click on Libraries, choose Add Folder/Jar
-5. Choose jlx and jTattoo from project
-6. Load simah.sql into your database server
+<br>1. Open NetBeans IDE
+<br>2. Open Project
+<br>3. Load This Project
+<br>4. Right Click on Libraries, choose Add Folder/Jar
+<br>5. Choose jlx and jTattoo from project
+<br>6. Load simah.sql into your database server
 
 <h1> About </h1>
 Contact me on facebook : fb.com/router.z
